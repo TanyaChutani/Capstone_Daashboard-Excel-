@@ -1,3 +1,2 @@
 # CapstoneDaashboardExcel
-Sales Dashboard
-![](Screenshot (23).png)
+![](Screenshot%20(23).png)
